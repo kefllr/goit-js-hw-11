@@ -49,7 +49,7 @@ function searchImage(event) {
         hideLoader();
     });
     }
-    evt.target.reset(); 
+    event.target.reset(); 
 }
 
 function getImage(imageName) {
